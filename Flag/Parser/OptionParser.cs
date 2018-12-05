@@ -8,9 +8,7 @@ namespace Flag.Parser
     public class Options
     {
         // Klasse for å håndtere parsinga
-
-            // Testing GitHub
-
+            
         class BoolOptions
         {
             public string shortname;
