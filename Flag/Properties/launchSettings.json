@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Flag": {
+      "commandName": "Project",
+      "commandLineArgs": "help=--help h=--help version=True v=False"
+    }
+  }
+}
